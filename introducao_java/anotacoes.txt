@@ -1,1 +1,19 @@
 dados importantes aprendidos nas aulas de Java
+
+IDES: Eclipse
+atalhos:
+ctrl + s = salvar
+ctrl + c = copia
+ctrl + v = cola
+ctrl + x = recorta
+ctrl + n = expandir a tela
+ctrl + = aumenta a fonte
+ctrl - = diminue a fonte
+ctrl + shift +f = formata o codigo
+ctrl + shift + espaço = completa
+ctrl + d = apaga a linha
+ctrl + 3 = cria
+ctrl + shift + o = importa 
+alt + seta/cima : muda bloco de lugar
+comentar bloco= /* e */
+comentar linha =  //
