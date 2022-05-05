@@ -1,1 +1,27 @@
 Dados importantes aprendidos na aula de Git/GitHub
+
+Como criar um repositório no Git/GitHub
+na página do github:
+
+- fazer login no site Github
+- criar novo repositório
+- colocar nome na pasta
+- escolher o Readme
+- escolher se será publico ou privado
+- clicar na opção create repository
+- ir no icone Code e copiar link
+
+agora no seu computador:
+
+- criar um diretório
+- clicar com lado direto do mouse em git bash
+- digitar: git clone e o link copiado do github
+- assim foi criado a pasta dentro do diretório
+
+cada vez que vc fizer uma alteração na pasta deve digitar:
+
+- git status para ver os arquivos modificados
+- git add . (adicionará a mudança)
+- git commit -m " escrever o motivo do commit"
+- git push atualiza as mudanças no github (local para remoto)
+- git pull atualiza mudanças (remoto para local)
